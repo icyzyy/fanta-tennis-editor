@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Dark-only: native controls, scrollbars and ::selection render dark. */
+html {
+	color-scheme: dark;
+}

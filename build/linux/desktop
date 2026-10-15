@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=My Product
+Comment=A fanta-tennis-editor application
+# The Exec line includes %u to pass the URL to the application
+Exec=/usr/local/bin/fanta-tennis-editor %u
+Terminal=false
+Type=Application
+Icon=fanta-tennis-editor
+Categories=Utility;
+StartupWMClass=fanta-tennis-editor
+
+ 
